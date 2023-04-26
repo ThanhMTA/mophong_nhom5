@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 6e175575a981c3044a1ed85b4cb1bc85
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1241
+        width: 84
+        height: 223
+      alignment: 9
+      pivot: {x: 0.56409144, y: 0.33977294}
+      border: {x: 3, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d231fbf752ca4ab53af0891e878d5
+      internalID: -121438805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1249
+        width: 82
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6d99df662d48b4cb07a4f3565f8d48
+      internalID: 351229109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1245
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6919395115685439fd24d996cf13d2
+      internalID: 1844815120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1017
+        width: 89
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9b7a516ca4024d93310d864cc782c
+      internalID: -1850504638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1014
+        width: 84
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc653565842d142accbed5c9f2644f
+      internalID: 1013828207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1012
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.54005736, y: 0.45193157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6281e2de5ae100a49b20aa2081f22c38
+      internalID: -1223235482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 803
+        width: 87
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7004820afe13c94493a338550baf79f
+      internalID: 1004914087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 803
+        width: 94
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52082e11324909143b7ae60ca6e91589
+      internalID: -1518481601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 800
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4075ee79761344b56db49d4d7018a
+      internalID: -475986182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 560
+        width: 78
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b14fb12d1c70a4ea8938a058b61e7e
+      internalID: -1308122033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 576
+        width: 86
+        height: 156
+      alignment: 9
+      pivot: {x: 0.46661997, y: 0.520411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4311ef5269a547a0c009233a80f8b
+      internalID: -974753720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 293
+        width: 100
+        height: 200
+      alignment: 9
+      pivot: {x: 0.43590972, y: 0.48397735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21794827116ea44eb7880b4e0ea9f6c
+      internalID: 65599949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 97
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29c29d42668e341a68e52cbd9aa2ef
+      internalID: -1294944739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 381
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4c5b72b5300b4f997481fe99d120d
+      internalID: -210980368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 567
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf8491102685264db4df532f6c68fa0
+      internalID: 1748735294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141b35d4e1bed2b41b6b4752896c90f5
+      internalID: -1386478506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 268
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bfa50e3dc923349be064a79566aff2
+      internalID: 2054494204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 268
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6569ed140eda284e8020fd789d75a30
+      internalID: -515758237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b489239b7af2e44ba4b444f77ccbb78
+      internalID: -729898845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb939aeb47cd484a9db50dffd6c1961
+      internalID: 1126932682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Magic Forest Volsebnyj Les - Pinetree_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb9373f69f0ba44afb436df7654e6f
+      internalID: 1723941903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_0: -121438805
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_1: 351229109
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_10: 1844815120
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_11: -1850504638
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_12: 1013828207
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_13: -1223235482
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_14: 1004914087
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_15: -1518481601
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_16: -475986182
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_17: -1308122033
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_18: -974753720
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_19: 65599949
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_2: -1294944739
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_20: -210980368
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_3: 1748735294
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_4: -1386478506
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_5: 2054494204
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_6: -515758237
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_7: -729898845
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_8: 1126932682
+      PC Computer - Magic Forest Volsebnyj Les - Pinetree_9: 1723941903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

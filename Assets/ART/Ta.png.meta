@@ -1,0 +1,1851 @@
+fileFormatVersion: 2
+guid: 6e86aacff071fab4b92659c849a16503
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765d08884588874e8d63fb9ea6a4aad
+      internalID: 97302523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6119c29b3d682942b3f0682cbace7e1
+      internalID: -1187797950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866e883ba1a4fd64e808d25d6db25c59
+      internalID: 1874367874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec51f108412ab4e998b76d15541bff
+      internalID: -1856618623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374df13ebadf22045ab124a29c2717e5
+      internalID: 1637755420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d87e8c5c1614418c672a183f3dfd9
+      internalID: 138176602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d63a036086724e86e1bd49650e44a
+      internalID: 838564749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1729.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b368e844fba0734aa61702954614373
+      internalID: 751373977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae399abd5927004cabd283a9e0b0ed6
+      internalID: -2002856607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8e32db91dd1a40b54ecac118a3ede
+      internalID: 1526526052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c660afe6874c419ae437c26a6d025
+      internalID: -1303300671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee323a1e9a6ed1145aa4f8f8504304cf
+      internalID: 576522395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4591276583ce2640a3382dde92791c6
+      internalID: -1399446145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275138899fc4ae840adf0c26e42762f4
+      internalID: 706948741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0e769b5bc0db4db8dddd90601f9cf
+      internalID: 1945025894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1537.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3285d732827c8c84d84a6ceed2d3571b
+      internalID: -304786437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f049b624755e4c972c833578849e4
+      internalID: 1252600529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8364b35b65b624eaff2f08b82c4a19
+      internalID: 1928244243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d755bdba37822543a9f9eda33f9eb30
+      internalID: 1396247061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fab278f9ef2b4b849f6dfaf979e92
+      internalID: 195948040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad9f2ad3bbed44e8c56b2cb5bf0f40
+      internalID: -1649513664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ddde4b9e9193f44a8a3890e68bcb40
+      internalID: -424646974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae715ce654ec9749aa6c0fc5fa2544b
+      internalID: 1822491322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1345.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3188418b2d0187e49b44c32b0b9771a6
+      internalID: 1186346440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e462d944caf344bbcc8d819e77bd7
+      internalID: 272785557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc54ca3efdee849bf469cdbd717784
+      internalID: -858167298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad32de8d257224b87e39519c8f429f
+      internalID: 1532247810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e259b5869e394249b4a5c481b46416c
+      internalID: 1529177729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e145875ce760894282da0455635af00
+      internalID: 1012099308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c310c7df8bb59a4abd22a406768170c
+      internalID: 474219965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c656609b27bb40969b5cf61508448
+      internalID: -1914467204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1153.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb6133d3454b242ae56828aa424043
+      internalID: -1679026400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b820d9eb676446b3721c497a734e2
+      internalID: -98618301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe8962bf5758043988d4501a84161d
+      internalID: -2098892725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172dfbe86e7815c459abcb267be81606
+      internalID: 2056181813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7e4cf03c8b19479d0b465b3db4c88
+      internalID: 623631983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87daac955ab6be49a9fa3e32514bbcd
+      internalID: -1424237069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5441ace151d6548bb76057874c84fa
+      internalID: -1587702000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da91f4636ff7b8d4e95a0e66553d00ee
+      internalID: 1429075996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 961.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513ec39952ef2474a9600eb38e27aef3
+      internalID: -1780446642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180b1baa46502ee4b9224bbb625598dc
+      internalID: 16246992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58cb01ec308284bbf337f790b59cbb
+      internalID: -501269516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf423e5da2d70409c49f4c08b407a4
+      internalID: -144707821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626f830cbb2728749a9404a6d43fcd5d
+      internalID: -458152619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45446dcefd8ad754bab7de4127574e7e
+      internalID: 686822934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dde4b3507f37e6409d04a91e74bfb8c
+      internalID: 1870526449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60921c6e13e889e4597dc5b6a3b07fd0
+      internalID: -1614639596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 769.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7eb17dfd264a4cb9bd66e9bec06c6
+      internalID: 1803769470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb820c70fea0de5449d0584ec2d9f627
+      internalID: 1577335937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60555fe02acf56439423e7c7960f742
+      internalID: 1419005476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f12f1d546f99f44fae81bae9ddbfa74
+      internalID: 778846715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1f83101862ea43ad3e113abf79482
+      internalID: 1513561674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2cc6240d5f75e4b92951107a344591
+      internalID: 489498470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191df0f12040df4ab925c9407e20719
+      internalID: -538084675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821eb4cbebfad2439d1e4f282314fd1
+      internalID: -1931331797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 577.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c8ff1000953f4092421671b2d68b3
+      internalID: 1435169140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4295885fe5f74409ea6ada8a55e73d
+      internalID: -225762154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ada4222d2e794f8564a19c5524020
+      internalID: -1376401632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4f258e25449934fb7499917f660702
+      internalID: 1406965856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bfd6303c82dc548adf67c74358a0ca
+      internalID: 1645848777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2dfa3a10624cc449b20e9e267c3a0d
+      internalID: -1556305287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_61
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec06f19eb10ca46a1e5e6df7af13c2
+      internalID: -1655289710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c31d5b24847364fb97f8de9ef7a1d4
+      internalID: 1758913244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_63
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 385.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b226d54bbf0bd647ab5894cb3d776f9
+      internalID: 1626688858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c5bb12f9276ea43be2472ecf43eaa0
+      internalID: -2016679208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_65
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e944ec40e01ba141986b119cc84adc9
+      internalID: 1921792145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1107f8356d047b498b630b9be1966f2
+      internalID: -217808729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929d589480d99248a72802f02b94090
+      internalID: -1747995736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_68
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e54277c68a05b3469023aeb52cdff7c
+      internalID: -1027246208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 193.8
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90972d13d276e0740b8d5f3ece841a87
+      internalID: 1641071172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0bb40ce01d166449afda849a63228d
+      internalID: 1946896525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c7ef79b956df44eb4015a26578bb78
+      internalID: 563119797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a20a5310b2c84cbe10f096621e399
+      internalID: -1861036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_73
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9bdf77fe81824a85fc5120ea1bffc
+      internalID: 275019870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_74
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b01903774a68f4ab128b6607e983d4
+      internalID: 401891795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7851baf5328c1034c9232d1b3a42c5f8
+      internalID: -697678313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_76
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d39d7db5a5a0443ab8044487af4eb6
+      internalID: 154385033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ta_77
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1.800003
+        width: 192.5
+        height: 192.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64dcdb359db3da4cae8b135858e30b9
+      internalID: -1900392936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ta_0: 97302523
+      Ta_1: -1187797950
+      Ta_10: -1303300671
+      Ta_11: 576522395
+      Ta_12: -1399446145
+      Ta_13: 706948741
+      Ta_14: 1945025894
+      Ta_15: -304786437
+      Ta_16: 1252600529
+      Ta_17: 1928244243
+      Ta_18: 1396247061
+      Ta_19: 195948040
+      Ta_2: 1874367874
+      Ta_20: -1649513664
+      Ta_21: -424646974
+      Ta_22: 1822491322
+      Ta_23: 1186346440
+      Ta_24: 272785557
+      Ta_25: -858167298
+      Ta_26: 1532247810
+      Ta_27: 1529177729
+      Ta_28: 1012099308
+      Ta_29: 474219965
+      Ta_3: -1856618623
+      Ta_30: -1914467204
+      Ta_31: -1679026400
+      Ta_32: -98618301
+      Ta_33: -2098892725
+      Ta_34: 2056181813
+      Ta_35: 623631983
+      Ta_36: -1424237069
+      Ta_37: -1587702000
+      Ta_38: 1429075996
+      Ta_39: -1780446642
+      Ta_4: 1637755420
+      Ta_40: 16246992
+      Ta_41: -501269516
+      Ta_42: -144707821
+      Ta_43: -458152619
+      Ta_44: 686822934
+      Ta_45: 1870526449
+      Ta_46: -1614639596
+      Ta_47: 1803769470
+      Ta_48: 1577335937
+      Ta_49: 1419005476
+      Ta_5: 138176602
+      Ta_50: 778846715
+      Ta_51: 1513561674
+      Ta_52: 489498470
+      Ta_53: -538084675
+      Ta_54: -1931331797
+      Ta_55: 1435169140
+      Ta_56: -225762154
+      Ta_57: -1376401632
+      Ta_58: 1406965856
+      Ta_59: 1645848777
+      Ta_6: 838564749
+      Ta_60: -1556305287
+      Ta_61: -1655289710
+      Ta_62: 1758913244
+      Ta_63: 1626688858
+      Ta_64: -2016679208
+      Ta_65: 1921792145
+      Ta_66: -217808729
+      Ta_67: -1747995736
+      Ta_68: -1027246208
+      Ta_69: 1641071172
+      Ta_7: 751373977
+      Ta_70: 1946896525
+      Ta_71: 563119797
+      Ta_72: -1861036674
+      Ta_73: 275019870
+      Ta_74: 401891795
+      Ta_75: -697678313
+      Ta_76: 154385033
+      Ta_77: -1900392936
+      Ta_8: -2002856607
+      Ta_9: 1526526052
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
